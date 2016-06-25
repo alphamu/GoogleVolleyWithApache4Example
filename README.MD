@@ -1,4 +1,4 @@
-# Example Google Volley With Apache4 (4.4.1.1)
+# Example Google Volley With Apache4 (4.4.1.2)
 
 This is an example project done using the unofficial mirror of [Google's Volley project](https://android.googlesource.com/platform/frameworks/volley/) for Android.
 The [unofficial mirror of Google volley uses Apache 4](https://github.com/alphamu/GoogleVolleyWithApache4) instead of the legacy Apache library bundled with Android.
